@@ -18,3 +18,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+# Test data with PII
+test_chat_transcripts.json
